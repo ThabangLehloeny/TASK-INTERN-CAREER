@@ -24,7 +24,7 @@ public class weatherWindow extends JFrame{
 	private JTextArea txtDisplayWeather;
 	
 	//ApiKey for API authorization
-	private String ApiKey ="9e7ebf5a7b8bdc474f99beeda1fb97df";
+	private String ApiKey ="YOUR_API_KEY_HERE";
 	private JLabel  lblWeatherImage;
 	
 	//parameter less constructor
